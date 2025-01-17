@@ -12,6 +12,7 @@ Avant de commencer, assurez-vous d'avoir installé les dépendances suivantes :
 - `torch` : Pour l'utilisation de PyTorch, la bibliothèque utilisée pour l'entraînement du modèle.
 - `transformers` : Pour le modèle BERT et la tokenisation.
 - `sklearn` : Pour la séparation des données en ensembles d'entraînement et de test.
+- Le dataset utilisé dans ce projet est trop volumineux pour être hébergé sur GitHub. Vous pouvez le télécharger à partir du lien suivant : [https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews].
 
 ### Installation des dépendances
 
